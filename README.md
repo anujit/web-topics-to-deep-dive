@@ -29,4 +29,5 @@ Below is a list of topics worth knowing in detail as you progress through your c
 17. Different types of widely used HTTP req/res headers
 18. Sourcemaps
 19. Reverse proxies like nginx, traefik - hows and whys
-20. ...
+20. Authentication in web apps - different approaches like cookies, JWT, OAuth etc
+21. ...
